@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Vježba Klase i objekti\bin\Debug\Vježba Klase i objekti.exe.config
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Vježba Klase i objekti\bin\Debug\Vježba Klase i objekti.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Vježba Klase i objekti\bin\Debug\Vježba Klase i objekti.pdb
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Vježba Klase i objekti\obj\Debug\Vježba Klase i objekti.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Vježba Klase i objekti\obj\Debug\Vježba Klase i objekti.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Vježba Klase i objekti\obj\Debug\Vježba Klase i objekti.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Vježba Klase i objekti\obj\Debug\Vježba Klase i objekti.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Vježba Klase i objekti\obj\Debug\Vježba Klase i objekti.pdb
